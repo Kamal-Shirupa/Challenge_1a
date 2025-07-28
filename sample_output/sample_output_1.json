@@ -1,0 +1,285 @@
+{
+    "title": "Unknown Title",
+    "outline": [
+        {
+            "level": "H3",
+            "text": "A Mini Project Report",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "On",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Neural Network Design with Natural Language Processing",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Submitted in the Partial Fulfillment of the Requirements",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "For the Award of the Degree of",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Bachelor of Technology",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "In",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "CSE (Artificial Intelligence and Machine Learning)",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "By",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "S Kamal      [22211A66A7]",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Under the Guidance of",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Ms. Srilakshmi V   Assistant Professor",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Dr. G Uday Kiran   Associate Professor",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "B V RAJU INSTITUTE OF TECHNOLOGY",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "B V RAJU INSTITUTE OF TECHNOLOGY",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "CERTIFICATE",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Ms. Srilakshmi V   Assistant Professor",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Dr. G Uday Kiran   Associate Professor",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "External Examiner    Dr. G Uday Kiran         Program Coordinator",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "B V RAJU INSTITUTE OF TECHNOLOGY",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "CANDIDATE\u2019S DECLARATION",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "B V RAJU INSTITUTE OF TECHNOLOGY",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "ACKNOWLEDGEMENT",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "TABLE OF CONTENTS",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "LIST OF FIGURES",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "LIST OF ABBREVIATIONS",
+            "page": 9
+        },
+        {
+            "level": "H2",
+            "text": "CHAPTER 1",
+            "page": 11
+        },
+        {
+            "level": "H3",
+            "text": "1.1 Neural Architecture Generation",
+            "page": 11
+        },
+        {
+            "level": "H3",
+            "text": "1.2 Introduction to the Domain",
+            "page": 12
+        },
+        {
+            "level": "H3",
+            "text": "1.3 Relevant Techniques",
+            "page": 13
+        },
+        {
+            "level": "H3",
+            "text": "1.4 Problem Statement",
+            "page": 14
+        },
+        {
+            "level": "H3",
+            "text": "1.5 Objective",
+            "page": 15
+        },
+        {
+            "level": "H2",
+            "text": "CHAPTER 2",
+            "page": 17
+        },
+        {
+            "level": "H2",
+            "text": "REVIEW OF LITERATURE",
+            "page": 17
+        },
+        {
+            "level": "H3",
+            "text": "2.2 RELATED WORK",
+            "page": 18
+        },
+        {
+            "level": "H3",
+            "text": "2.3 RESEARCH GAPS",
+            "page": 31
+        },
+        {
+            "level": "H2",
+            "text": "CHAPTER 3",
+            "page": 34
+        },
+        {
+            "level": "H2",
+            "text": "METHODOLOGY",
+            "page": 34
+        },
+        {
+            "level": "H3",
+            "text": "3.1 INTRODUCTION",
+            "page": 34
+        },
+        {
+            "level": "H3",
+            "text": "3.2 NLP PROCESSING ENGINE",
+            "page": 35
+        },
+        {
+            "level": "H3",
+            "text": "3.3 AutoKeras Integration",
+            "page": 41
+        },
+        {
+            "level": "H3",
+            "text": "3.4 SYSTEM WORKFLOW",
+            "page": 43
+        },
+        {
+            "level": "H3",
+            "text": "3.5 SUMMARY",
+            "page": 49
+        },
+        {
+            "level": "H2",
+            "text": "Chapter 4",
+            "page": 51
+        },
+        {
+            "level": "H2",
+            "text": "Results and Discussion",
+            "page": 51
+        },
+        {
+            "level": "H3",
+            "text": "4.1 EVALUATION METRICS",
+            "page": 51
+        },
+        {
+            "level": "H3",
+            "text": "4.2 PERFORMANCE COMPARISON",
+            "page": 53
+        },
+        {
+            "level": "H3",
+            "text": "4.3 RESULTS AND OBSEVATIONS",
+            "page": 56
+        },
+        {
+            "level": "H3",
+            "text": "4.3 SUMMARY",
+            "page": 59
+        },
+        {
+            "level": "H2",
+            "text": "Chapter 5",
+            "page": 61
+        },
+        {
+            "level": "H2",
+            "text": "Conclusion and Future Scope",
+            "page": 61
+        },
+        {
+            "level": "H3",
+            "text": "5.1 CONCLUSION",
+            "page": 61
+        },
+        {
+            "level": "H3",
+            "text": "5.2 FUTURE SCOPE",
+            "page": 61
+        },
+        {
+            "level": "H2",
+            "text": "CONFERENCE OR JOURNAL DETAILS",
+            "page": 70
+        },
+        {
+            "level": "H2",
+            "text": "PLAGIARISM REPORT",
+            "page": 71
+        },
+        {
+            "level": "H2",
+            "text": "AI PLAGIARISM REPORT",
+            "page": 72
+        }
+    ]
+}
